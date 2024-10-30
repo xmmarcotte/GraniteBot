@@ -1,0 +1,6 @@
+pymssql~=2.2.11
+openai~=1.14.2
+python-dotenv~=1.0.1
+colorama~=0.4.6
+requests~=2.31.0
+msal~=1.28.0
