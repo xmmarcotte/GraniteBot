@@ -3,7 +3,7 @@
 
 GraniteBot is an internal tool designed for Granite Telecommunications to assist with ticket inquiries, database searches, 
 and integration with Microsoft Teams to retrieve relevant chat data for tickets. This bot leverages OpenAI's API, MS Graph API, 
-and a SQL database to provide efficient responses and helpful information to internal users.
+and various internal databases to provide efficient responses and helpful information to internal users.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -17,7 +17,7 @@ and a SQL database to provide efficient responses and helpful information to int
 - [Troubleshooting](#troubleshooting)
 
 ## Overview
-GraniteBot combines ticket data from a SQL database with chat information from MS Teams, using APIs to interactively respond 
+GraniteBot combines ticket data from various internal databases with chat information from MS Teams, using APIs to interactively respond 
 to user queries regarding specific tickets or general information requests.
 
 ## File Structure
